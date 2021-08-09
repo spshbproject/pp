@@ -21,11 +21,11 @@ We want to inform you that whenever you use our Service, in a case of an error i
 3. App Permissions for Android App
 
 ShaadiPage Android App uses following App Permissions.
- WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE, READ_SMS, RECEIVE_SMS
-
+ WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE
+ 
 Reason for these permissions explained below
 WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE, - To allow user to set profile photo.
-    READ_SMS, RECEIVE_SMS - To process subscription based payments using Instamojo Android SDK.
+   
 
 4. How we use the personal data
 
@@ -48,10 +48,8 @@ If and when required under the provisions of India Law, and by Indian Law Enforc
 7. Third Party Services
 
 The ShaadiPage app does use third party services. These third party services may collect information used to identify you. These third party services used by ShaadiPage are as follows.
-A Google Play Services.
 
-B. Instamojo Android SDK
-You are requested to review the privacy statements of these third party service providers on their respective websites.
+A Google Play Services.
 
 ShaadiPage does not share any user information with these third party services.
 
